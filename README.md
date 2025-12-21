@@ -10,7 +10,7 @@ Merhaba! Ben **Yiğit Atmaca**, Pendik İTO Ticaret Mesleki ve Teknik Anadolu Li
 
 ## 💡 İlgi Alanlarım
 
-* 🛡️ **Siber Güvenlik** → Penetrasyon testi, CTF yarışmaları (PWN, Crypto, Forensics), ağ güvenliği
+* 🛡️ **Siber Güvenlik** → PWN | Crypto | Forensics | Web | Reverse Engineering | Steganography | OSINT | Malware Analizi | Penetrasyon Testi | Ağ Güvenliği
 * 💻 **Yazılım Geliştirme** → Uygulama ve sistem yazılımı
 * 🔮 **Geleceğin Teknolojileri** → Yapay zeka, blockchain, IoT
 
