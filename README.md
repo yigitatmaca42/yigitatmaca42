@@ -18,7 +18,11 @@ Merhaba! Ben **Yiğit Atmaca**, Pendik İTO Ticaret Mesleki ve Teknik Anadolu Li
 
 ## 💻 Bildiğim Diller
 
-<img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/> <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="50"/> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50"/> <img src="https://skillicons.dev/icons?i=html5" alt="HTML" width="50"/> <img src="https://skillicons.dev/icons?i=css3" alt="CSS" width="50"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
