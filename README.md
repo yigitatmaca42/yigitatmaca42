@@ -36,8 +36,6 @@ Merhaba! Ben **Yiğit Atmaca**, Pendik İTO Ticaret Mesleki ve Teknik Anadolu Li
 
 ---
 
-> "Kod yazmak sadece bir beceri değil, bir **problem çözme sanatı**dır." — Yiğit Atmaca 🔥
->
 > "Aklına birşey geldiyse yap, tereddütte kalma yoksa keşke dersin." — Yiğit Atmaca
 
 ---
