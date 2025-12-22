@@ -24,7 +24,7 @@ Merhaba! Ben **Yiğit Atmaca**, Pendik İTO Ticaret Mesleki ve Teknik Anadolu Li
 
 ## 🛠️ Kullandığım Araçlar
 
-[![skillicons](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,git,github,kali,linux,windows,powershell,virtualbox,discord)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,git,github,kali,linux,windows,powershell,discord)](https://skillicons.dev)
 
 ---
 
