@@ -24,7 +24,7 @@ Merhaba! Ben **Yiğit Atmaca**, Pendik İTO Ticaret Mesleki ve Teknik Anadolu Li
 
 ## 🛠️ Kullandığım Araçlar
 
-[![skillicons](https://skillicons.dev/icons?i=visualstudio,vscode,github,kali,linux,discord,powershell,windows)](https://skillicons.dev)[![burp](https://cdn.simpleicons.org/burpsuite/FF6633)](https://portswigger.net/burp)[![ghidra](https://ghidra-sre.org/images/GHIDRA_1.png)](https://ghidra-sre.org)[![ida](https://www.hex-rays.com/products/ida/news/8_2/images/icon_free.png)](https://hex-rays.com)[![jadx](https://avatars.githubusercontent.com/u/13936895?s=96)](https://github.com/skylot/jadx)[![apktool](https://avatars.githubusercontent.com/u/15055520?s=96)](https://github.com/iBotPeaches/Apktool)[![dnspy](https://avatars.githubusercontent.com/u/3046889?s=96)](https://github.com/dnSpy/dnSpy)[![sonic](https://www.sonicvisualiser.org/images/sv-128.png)](https://sonicvisualiser.org)
+[![skillicons](https://skillicons.dev/icons?i=visualstudio,vscode,github,kali,linux,discord,powershell,windows)](https://skillicons.dev)
 
 ---
 
