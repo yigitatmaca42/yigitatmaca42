@@ -24,7 +24,7 @@ Merhaba! Ben **Yiğit Atmaca**, Pendik İTO Ticaret Mesleki ve Teknik Anadolu Li
 
 ## 🛠️ Kullandığım Araçlar
 
-[![icons](https://cdn.simpleicons.org/visualstudio)![](https://cdn.simpleicons.org/visualstudiocode)![](https://cdn.simpleicons.org/pycharm)![](https://cdn.simpleicons.org/git)![](https://cdn.simpleicons.org/github)![](https://cdn.simpleicons.org/kalilinux)![](https://cdn.simpleicons.org/linux)![](https://cdn.simpleicons.org/windows)![](https://cdn.simpleicons.org/powershell)![](https://cdn.simpleicons.org/virtualbox)![](https://cdn.simpleicons.org/discord)![](https://cdn.simpleicons.org/burpsuite)![](https://cdn.simpleicons.org/hackthebox)![](https://cdn.simpleicons.org/tryhackme)](https://simpleicons.org)
+<img src="https://cdn.simpleicons.org/visualstudio" width="48"/><img src="https://cdn.simpleicons.org/visualstudiocode" width="48"/><img src="https://cdn.simpleicons.org/pycharm" width="48"/><img src="https://cdn.simpleicons.org/git" width="48"/><img src="https://cdn.simpleicons.org/github" width="48"/><img src="https://cdn.simpleicons.org/kalilinux" width="48"/><img src="https://cdn.simpleicons.org/linux" width="48"/><img src="https://cdn.simpleicons.org/windows" width="48"/><img src="https://cdn.simpleicons.org/powershell" width="48"/><img src="https://cdn.simpleicons.org/virtualbox" width="48"/><img src="https://cdn.simpleicons.org/discord" width="48"/><img src="https://cdn.simpleicons.org/burpsuite" width="48"/><img src="https://cdn.simpleicons.org/hackthebox" width="48"/><img src="https://cdn.simpleicons.org/tryhackme" width="48"/>
 
 ---
 
