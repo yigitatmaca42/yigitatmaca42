@@ -32,8 +32,8 @@ Merhaba! Ben **Yiğit Atmaca**, Pendik İTO Ticaret Mesleki ve Teknik Anadolu Li
 
 * 💬 Discord: `nuirmo`
 * 📧 E-posta: [yigitatmaca42@gmail.com](mailto:yigitatmaca42@gmail.com)
-* 💼 LinkedIn: [Yiğit Atmaca](linkedin.com/in/yiğit-atmaca-89844839a)
-* 📸 Instagram: [yigit.atmacaaa](instagram.com/yigit.atmacaaa)
+* 💼 LinkedIn: [Yiğit Atmaca](https://www.linkedin.com/in/yi%C4%9Fit-atmaca-89844839a)
+* 📸 Instagram: [yigit.atmacaaa](https://www.instagram.com/yigit.atmacaaa)
 
 ---
 
