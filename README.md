@@ -2,7 +2,7 @@
 
 # Yiğit Atmaca 👨‍💻
 
-Merhaba! Ben **Yiğit Atmaca**, Pendik İTO Ticaret Mesleki ve Teknik Anadolu Lisesi Bilişim bölümü 10. sınıf öğrencisiyim. Teknoloji ve yazılıma, özellikle **Siber Güvenlik** alanına büyük ilgi duyuyorum 🔐
+Merhaba! Ben **Yiğit Atmaca**, Pendik İTO Ticaret Mesleki ve Teknik Anadolu Lisesi Bilişim bölümü 11. sınıf öğrencisiyim. Teknoloji ve yazılıma, özellikle **Siber Güvenlik** alanına büyük ilgi duyuyorum 🔐
 
 Şu anda **CTF yarışmalarına katılıyor**, **güvenlik araştırmaları** yapıyor ve **yazılım geliştirme** konularında deneyim kazanıyorum.
 
